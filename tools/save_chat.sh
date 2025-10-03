@@ -62,6 +62,7 @@ s/model:\s*\"\"/model: \"${MODEL//\//\\/}\"/;" \
   printf "%s\n" "$CONTENT"
   echo '```'
   echo -e "\n## Notes\n"
+  echo -e "\n## Problems\n"
 } >> "$FILE"
 
 echo "Saved: $FILE"
