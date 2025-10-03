@@ -38,6 +38,7 @@ Begin with a concise checklist (3-7 bullets) summarizing how you will use these 
 - Identify statistical category strengths/weaknesses.
 - Recommend optimal draft targets to balance and strengthen the roster.
 - In the first 5 rounds avoid players that have played less than 65 games in atleast 2 of their last 3 seasons.
+- When selecting between comparable players, prioritize the Forward position due to its scarcity over other positions.
 
 ### Output Format
 - Concise recommendations for each pick.
@@ -53,7 +54,4 @@ Begin with a concise checklist (3-7 bullets) summarizing how you will use these 
 - End recommendation after each pick until new input is provided with draft updates.
 
 ### TODO
-1. Update GPT context to contain post trade deadline stats.
-2. Update prompt for F scarcity.
-3. Add a prompt to the reasoning section to consider all players that may be taken before my pick in the next round.
-4. Add a files section to describe each file I am using for context.
+1. Add a prompt to the reasoning section to consider all players that may be taken before my pick in the next round.
