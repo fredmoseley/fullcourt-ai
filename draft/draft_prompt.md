@@ -43,3 +43,9 @@ You are a fantasy basketball expert assisting with drafting a competitive team i
 
 ### Stop Conditions
 - End recommendation after each pick until new input is provided with draft updates.
+
+### TODO
+1. Update GPT context to contain post trade deadline stats.
+2. Update prompt for F scarcity.
+3. Add a prompt to the reasoning section to consider all players that may be taken before my pick in the next round.
+4. Add a files section to describe each file I am using for context.
