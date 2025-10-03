@@ -57,7 +57,6 @@ Begin with a concise checklist (3-7 bullets) summarizing how you will use these 
 
 ### TODO
 - Add a reasoning prompt to GPT missed Lebron ADP 23. Extend range to my pick in the current round -2
-- Still recommending players that are not available.  Names in the current_draft_results.tsv, and nfbc_adp.pdf, in lastname, firstname format. Do I need to Normalize these files.
 - Tune F scarcity prompt.  I want it to be mindful of this and always suggest a Forward I should consider.
 - Add a bias for players on winning teams over good players on tanking teams.
 - Have GPT suggest best player at each position each round.  
