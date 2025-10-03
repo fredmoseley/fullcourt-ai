@@ -11,6 +11,8 @@ TEAM="kfredincal"
 # git add transcripts && git commit -m "Add chat transcript round-01"
 ROUND="${1:-}"
 PICK="${2:-}"
+PLAYER="${3:-}"
+POSITION="${4:-}"
 
 DIR="draft/leagues/${SEASON}-${LEAGUE}/transcripts"
 FILE="$DIR/round-${ROUND}.md"
@@ -30,6 +32,8 @@ league: ""
 team: ""
 round: ""
 pick: ""
+player: ""
+position: ""
 date: ""
 model: ""
 ---
@@ -46,6 +50,8 @@ URL="${CHAT_URL:-[Round ${ROUND} Chat]()}"
 perl -0777 -pe "s/title:\s*\"\"/title: \"${TITLE//\//\\/}\"/;
 s/round:\s*\"\"/round: \"${ROUND//\//\\/}\"/;
 s/pick:\s*\"\"/pick: \"${PICK//\//\\/}\"/;
+s/player:\s*\"\"/player: \"${PLAYER//\//\\/}\"/;
+s/position:\s*\"\"/position: \"${POSITION//\//\\/}\"/;
 s/season:\s*\"\"/season: \"${SEASON//\//\\/}\"/;
 s/league:\s*\"\"/league: \"${LEAGUE//\//\\/}\"/;
 s/team:\s*\"\"/team: \"${TEAM//\//\\/}\"/;
