@@ -141,9 +141,3 @@ Williams the safer pick but Giddey has more upside to outperform this pick #. He
 
 1. ChatGPT recommended a player that was already drafted.
 2. Suggestions pretty bound by ADP.
-
-## TODO
-
-1. Update GPT context to contain post trade deadline stats.
-2. Update prompt for F scarcity.
-3. Add a prompt to the reasoning section to consider all players that may be taken before my pick in the next round.
