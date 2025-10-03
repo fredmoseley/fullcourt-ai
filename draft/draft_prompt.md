@@ -40,7 +40,7 @@ Begin with a concise checklist (3-7 bullets) summarizing how you will use these 
 - Recommend optimal draft targets to balance and strengthen the roster.
 - In the first 5 rounds avoid players that have played less than 65 games in at least 2 of their last 3 seasons.
 - When selecting between comparable players, prioritize the Forward position due to its scarcity over other positions.
-- When making a pick, take into account all players who could potentially be selected before your next turn. Begin with a concise checklist (3-7 bullets) of your decision process before making your selection. After finalizing your pick, briefly validate your choice and confirm that it aligns with your criteria and the draft context.
+- When making a pick, take into account all players who could potentially be selected before your turn in the next round. Begin with a concise checklist (3-7 bullets) of your decision process before making your selection. After finalizing your pick, briefly validate your choice and confirm that it aligns with your criteria and the draft context.
 
 ### Output Format
 - Concise recommendations for each pick.
@@ -56,3 +56,9 @@ Begin with a concise checklist (3-7 bullets) summarizing how you will use these 
 - End recommendation after each pick until new input is provided with draft updates.
 
 ### TODO
+- Add a reasoning prompt to GPT missed Lebron ADP 23. Extend range to my pick in the current round -2
+- Still recommending players that are not available.  Names in the current_draft_results.tsv, and nfbc_adp.pdf, in lastname, firstname format. Do I need to Normalize these files.
+- Tune F scarcity prompt.  I want it to be mindful of this and always suggest a Forward I should consider.
+- Add a bias for players on winning teams over good players on tanking teams.
+- Have GPT suggest best player at each position each round.  
+- Add sleepers and breakouts to context.  
