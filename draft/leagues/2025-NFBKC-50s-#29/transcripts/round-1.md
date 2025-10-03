@@ -94,5 +94,7 @@ I pulled the FantasyPros projections — here’s a table comparing Anthony Edwa
 Would you like me to break down which categories each player gives you an edge in so you can see how your team would be shaped by each pick? 
 ```
 ## Notes
-Problem with my initial prompt.  ChatGPT recommended a player that was already drafted.	
+I don’t love his FG% but he is a young star on the rise that has not reached his prime yet.  Offers MVP upside.  This was an easy pick
 
+## Problems
+ChatGPT recommended a player that was already drafted.	
