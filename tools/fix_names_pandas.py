@@ -31,10 +31,20 @@ def main():
         df.to_csv(backup_name, sep="\t", index=False)
         print(f"Backup written to {backup_name}")
 
+    # Function to reformat names from 'Lastname, Firstname' to 'Firstname Lastname'
+    def reformat_name(x):
+        if x == "-":
+            return ""
+        if isinstance(x, str) and "," in x:
+            parts = x.split(", ")
+            if len(parts) == 2:
+                return f"{parts[1]} {parts[0]}"
+            else:
+                return x
+        return x
+
     # Apply transformation
-    df[args.column] = df[args.column].apply(
-        lambda x: " ".join(x.split(", ")[::-1]) if isinstance(x, str) and "," in x else x
-    )
+    df[args.column] = df[args.column].apply(reformat_name)
 
     # Write back to same file
     df.to_csv(args.filename, sep="\t", index=False)
