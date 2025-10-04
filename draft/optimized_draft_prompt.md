@@ -73,3 +73,10 @@ Example output:
 }
 
 If names do not match across files, flag a warning and use best judgment for name/ID matching. If any important file is missing or unreadable, note this in the output and proceed with available data.
+
+## TODO
+- Add a bias for players on winning teams over good players on tanking teams.
+- The position tiered file should play a role in decision making.
+- Add depth chart to the context will be useful for later rounds.
+- Update the reasoning to account for how my strategy changes as the draft progresses.
+
