@@ -6,7 +6,7 @@ round: "5"
 pick: "55"
 player: "Trey Murphy"
 position: "F"
-gpt pick: "Deni Avdija F"
+gpt pick: "Deni Avdija, Miles Bridges, Jarrett Allen"
 date: "2025-10-04T10:10:50-07:00"
 model: "GPT-5 Thinking"
 ---
@@ -219,7 +219,7 @@ ChatGPT can make mistakes. Check important info.
 
 ## Notes
 Considered Trey Murphy, Deni Avdija, Miles Bridges.
-Murphy lower on the REB and AST.  But I feel that he’s a safer pick then Deni since Rotowire questioned whether he would start and see the same usage.  I should have ignored it because I could use the rebounding and playmaking.  Regerts.
+Murphy lower on the REB and AST.  But I feel that he’s a safer pick then Deni since Rotowire questioned whether he would start and see the same usage.  I should have ignored it because I could use the rebounding and playmaking.  Regerts.  Murphy probably not recommended because has not played 65+ games 2 of the last three seasons.
 
 ## Problems
 - GPT still recommends players that have been drafted.
