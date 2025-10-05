@@ -78,8 +78,7 @@ If names do not match across files, flag a warning and use best judgment for nam
 ## TODO
 - Add a bias for players on winning teams over good players on tanking teams.
 - Add depth chart to the context will be useful for later rounds.
-- Update the reasoning to account for how my strategy changes as the draft progresses.
+- Update the reasoning to account for how my strategy changes as the draft progresses.  Should account for different bench sizes.
 - Make GPT verify the current_draft_results.tsv was updated before giving advice.
-- Modify fix_names script to leave the player name blank.
 - Use GPT to clean up my logs with better md formatting.
 
