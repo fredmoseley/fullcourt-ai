@@ -10,8 +10,8 @@ Round	Pick	Player	Position	Team	Duration	YTD
 1	9	Giannis Antetokounmpo	F	@Gamer_Gid	30 min 27 sec	-
 1	10	James Harden	G	@Glinn	43 min 39 sec	-
 1	11	Anthony Davis	F	@Gdmets1986	1 hour 1 min 7 sec	-
-1	12	Stephen Curry	G	M5 - Racco	5 min 40 sec	-
-2	13	Devin Booker	G	M5 - Racco	4 sec	-
+1	12	Stephen Curry	G	M5 - Chicago Full of Bull	5 min 40 sec	-
+2	13	Devin Booker	G	M5 - Chicago Full of Bull	4 sec	-
 2	14	Tyrese Maxey	G	@Gdmets1986	11 min 50 sec	-
 2	15	Domantas Sabonis	F	@Glinn	42 min 24 sec	-
 2	16	Jalen Brunson	G	@Gamer_Gid	58 min 27 sec	-
@@ -23,7 +23,7 @@ Round	Pick	Player	Position	Team	Duration	YTD
 2	22	Amen Thompson	F	Draft29	54 min 14 sec	-
 2	23	Jalen Johnson	F	50-5	7 min 26 sec	-
 2	24	De'Aaron Fox	G	@jimmytheguy	1 hour 17 min 40 sec	-
-3	25	Jalen Williams	G	M5 - Racco	10 min 59 sec	-
+3	25	Jalen Williams	G	M5 - Chicago Full of Bull	10 min 59 sec	-
 3	26	Chet Holmgren	F	@Gdmets1986	11 min 54 sec	-
 3	27	Scottie Barnes	F	@Glinn	5 sec	-
 3	28	Alperen Sengun	C	@Gamer_Gid	16 min 50 sec	-
@@ -46,8 +46,8 @@ Round	Pick	Player	Position	Team	Duration	YTD
 4	45	Walker Kessler	C	@Gamer_Gid	48 min 53 sec	-
 4	46	Dyson Daniels	G	@Glinn	5 min 35 sec	-
 4	47	Cooper Flagg	F	@Gdmets1986	47 min 21 sec	-
-4	48	Mark Williams	C	M5 - Racco	33 min 43 sec	-
-5	49	Jakob Poeltl	C	M5 - Racco	1 min 10 sec	-
+4	48	Mark Williams	C	M5 - Chicago Full of Bull	33 min 43 sec	-
+5	49	Jakob Poeltl	C	M5 - Chicago Full of Bull	1 min 10 sec	-
 5	50	Coby White	G	@Gdmets1986	18 min 37 sec	-
 5	51	Nikola Vucevic	C	@Glinn	18 min 1 sec	-
 5	52	Jalen Duren	FLEX	@Gamer_Gid	1 hour 19 min 49 sec	-
@@ -64,238 +64,238 @@ Round	Pick	Player	Position	Team	Duration	YTD
 6	63	Jarrett Allen	C	Draft29	19 min 20 sec	-
 6	64	Onyeka Okongwu	C	@Danellmer27	1 hour 14 min 49 sec	-
 6	65	Kristaps Porzingis	F	LOLMets Support Group	1 hour 50 min 5 sec	-
-6	66	-		@kfredincali	0 sec	-
-6	67	-		Little Donny 2	0 sec	-
-6	68	-		@KenGill	0 sec	-
-6	69	-		@Gamer_Gid	0 sec	-
-6	70	-		@Glinn	0 sec	-
-6	71	-		@Gdmets1986	0 sec	-
-6	72	-		M5 - Racco	0 sec	-
-7	73	-		M5 - Racco	0 sec	-
-7	74	-		@Gdmets1986	0 sec	-
-7	75	-		@Glinn	0 sec	-
-7	76	-		@Gamer_Gid	0 sec	-
-7	77	-		@KenGill	0 sec	-
-7	78	-		Little Donny 2	0 sec	-
-7	79	-		@kfredincali	0 sec	-
-7	80	-		LOLMets Support Group	0 sec	-
-7	81	-		@Danellmer27	0 sec	-
-7	82	-		Draft29	0 sec	-
-7	83	-		50-5	0 sec	-
-7	84	-		@jimmytheguy	0 sec	-
-8	85	-		@jimmytheguy	0 sec	-
-8	86	-		50-5	0 sec	-
-8	87	-		Draft29	0 sec	-
-8	88	-		@Danellmer27	0 sec	-
-8	89	-		LOLMets Support Group	0 sec	-
-8	90	-		@kfredincali	0 sec	-
-8	91	-		Little Donny 2	0 sec	-
-8	92	-		@KenGill	0 sec	-
-8	93	-		@Gamer_Gid	0 sec	-
-8	94	-		@Glinn	0 sec	-
-8	95	-		@Gdmets1986	0 sec	-
-8	96	-		M5 - Racco	0 sec	-
-9	97	-		M5 - Racco	0 sec	-
-9	98	-		@Gdmets1986	0 sec	-
-9	99	-		@Glinn	0 sec	-
-9	100	-		@Gamer_Gid	0 sec	-
-9	101	-		@KenGill	0 sec	-
-9	102	-		Little Donny 2	0 sec	-
-9	103	-		@kfredincali	0 sec	-
-9	104	-		LOLMets Support Group	0 sec	-
-9	105	-		@Danellmer27	0 sec	-
-9	106	-		Draft29	0 sec	-
-9	107	-		50-5	0 sec	-
-9	108	-		@jimmytheguy	0 sec	-
-10	109	-		@jimmytheguy	0 sec	-
-10	110	-		50-5	0 sec	-
-10	111	-		Draft29	0 sec	-
-10	112	-		@Danellmer27	0 sec	-
-10	113	-		LOLMets Support Group	0 sec	-
-10	114	-		@kfredincali	0 sec	-
-10	115	-		Little Donny 2	0 sec	-
-10	116	-		@KenGill	0 sec	-
-10	117	-		@Gamer_Gid	0 sec	-
-10	118	-		@Glinn	0 sec	-
-10	119	-		@Gdmets1986	0 sec	-
-10	120	-		M5 - Racco	0 sec	-
-11	121	-		M5 - Racco	0 sec	-
-11	122	-		@Gdmets1986	0 sec	-
-11	123	-		@Glinn	0 sec	-
-11	124	-		@Gamer_Gid	0 sec	-
-11	125	-		@KenGill	0 sec	-
-11	126	-		Little Donny 2	0 sec	-
-11	127	-		@kfredincali	0 sec	-
-11	128	-		LOLMets Support Group	0 sec	-
-11	129	-		@Danellmer27	0 sec	-
-11	130	-		Draft29	0 sec	-
-11	131	-		50-5	0 sec	-
-11	132	-		@jimmytheguy	0 sec	-
-12	133	-		@jimmytheguy	0 sec	-
-12	134	-		50-5	0 sec	-
-12	135	-		Draft29	0 sec	-
-12	136	-		@Danellmer27	0 sec	-
-12	137	-		LOLMets Support Group	0 sec	-
-12	138	-		@kfredincali	0 sec	-
-12	139	-		Little Donny 2	0 sec	-
-12	140	-		@KenGill	0 sec	-
-12	141	-		@Gamer_Gid	0 sec	-
-12	142	-		@Glinn	0 sec	-
-12	143	-		@Gdmets1986	0 sec	-
-12	144	-		M5 - Racco	0 sec	-
-13	145	-		M5 - Racco	0 sec	-
-13	146	-		@Gdmets1986	0 sec	-
-13	147	-		@Glinn	0 sec	-
-13	148	-		@Gamer_Gid	0 sec	-
-13	149	-		@KenGill	0 sec	-
-13	150	-		Little Donny 2	0 sec	-
-13	151	-		@kfredincali	0 sec	-
-13	152	-		LOLMets Support Group	0 sec	-
-13	153	-		@Danellmer27	0 sec	-
-13	154	-		Draft29	0 sec	-
-13	155	-		50-5	0 sec	-
-13	156	-		@jimmytheguy	0 sec	-
-14	157	-		@jimmytheguy	0 sec	-
-14	158	-		50-5	0 sec	-
-14	159	-		Draft29	0 sec	-
-14	160	-		@Danellmer27	0 sec	-
-14	161	-		LOLMets Support Group	0 sec	-
-14	162	-		@kfredincali	0 sec	-
-14	163	-		Little Donny 2	0 sec	-
-14	164	-		@KenGill	0 sec	-
-14	165	-		@Gamer_Gid	0 sec	-
-14	166	-		@Glinn	0 sec	-
-14	167	-		@Gdmets1986	0 sec	-
-14	168	-		M5 - Racco	0 sec	-
-15	169	-		M5 - Racco	0 sec	-
-15	170	-		@Gdmets1986	0 sec	-
-15	171	-		@Glinn	0 sec	-
-15	172	-		@Gamer_Gid	0 sec	-
-15	173	-		@KenGill	0 sec	-
-15	174	-		Little Donny 2	0 sec	-
-15	175	-		@kfredincali	0 sec	-
-15	176	-		LOLMets Support Group	0 sec	-
-15	177	-		@Danellmer27	0 sec	-
-15	178	-		Draft29	0 sec	-
-15	179	-		50-5	0 sec	-
-15	180	-		@jimmytheguy	0 sec	-
-16	181	-		@jimmytheguy	0 sec	-
-16	182	-		50-5	0 sec	-
-16	183	-		Draft29	0 sec	-
-16	184	-		@Danellmer27	0 sec	-
-16	185	-		LOLMets Support Group	0 sec	-
-16	186	-		@kfredincali	0 sec	-
-16	187	-		Little Donny 2	0 sec	-
-16	188	-		@KenGill	0 sec	-
-16	189	-		@Gamer_Gid	0 sec	-
-16	190	-		@Glinn	0 sec	-
-16	191	-		@Gdmets1986	0 sec	-
-16	192	-		M5 - Racco	0 sec	-
-17	193	-		M5 - Racco	0 sec	-
-17	194	-		@Gdmets1986	0 sec	-
-17	195	-		@Glinn	0 sec	-
-17	196	-		@Gamer_Gid	0 sec	-
-17	197	-		@KenGill	0 sec	-
-17	198	-		Little Donny 2	0 sec	-
-17	199	-		@kfredincali	0 sec	-
-17	200	-		LOLMets Support Group	0 sec	-
-17	201	-		@Danellmer27	0 sec	-
-17	202	-		Draft29	0 sec	-
-17	203	-		50-5	0 sec	-
-17	204	-		@jimmytheguy	0 sec	-
-18	205	-		@jimmytheguy	0 sec	-
-18	206	-		50-5	0 sec	-
-18	207	-		Draft29	0 sec	-
-18	208	-		@Danellmer27	0 sec	-
-18	209	-		LOLMets Support Group	0 sec	-
-18	210	-		@kfredincali	0 sec	-
-18	211	-		Little Donny 2	0 sec	-
-18	212	-		@KenGill	0 sec	-
-18	213	-		@Gamer_Gid	0 sec	-
-18	214	-		@Glinn	0 sec	-
-18	215	-		@Gdmets1986	0 sec	-
-18	216	-		M5 - Racco	0 sec	-
-19	217	-		M5 - Racco	0 sec	-
-19	218	-		@Gdmets1986	0 sec	-
-19	219	-		@Glinn	0 sec	-
-19	220	-		@Gamer_Gid	0 sec	-
-19	221	-		@KenGill	0 sec	-
-19	222	-		Little Donny 2	0 sec	-
-19	223	-		@kfredincali	0 sec	-
-19	224	-		LOLMets Support Group	0 sec	-
-19	225	-		@Danellmer27	0 sec	-
-19	226	-		Draft29	0 sec	-
-19	227	-		50-5	0 sec	-
-19	228	-		@jimmytheguy	0 sec	-
-20	229	-		@jimmytheguy	0 sec	-
-20	230	-		50-5	0 sec	-
-20	231	-		Draft29	0 sec	-
-20	232	-		@Danellmer27	0 sec	-
-20	233	-		LOLMets Support Group	0 sec	-
-20	234	-		@kfredincali	0 sec	-
-20	235	-		Little Donny 2	0 sec	-
-20	236	-		@KenGill	0 sec	-
-20	237	-		@Gamer_Gid	0 sec	-
-20	238	-		@Glinn	0 sec	-
-20	239	-		@Gdmets1986	0 sec	-
-20	240	-		M5 - Racco	0 sec	-
-21	241	-		M5 - Racco	0 sec	-
-21	242	-		@Gdmets1986	0 sec	-
-21	243	-		@Glinn	0 sec	-
-21	244	-		@Gamer_Gid	0 sec	-
-21	245	-		@KenGill	0 sec	-
-21	246	-		Little Donny 2	0 sec	-
-21	247	-		@kfredincali	0 sec	-
-21	248	-		LOLMets Support Group	0 sec	-
-21	249	-		@Danellmer27	0 sec	-
-21	250	-		Draft29	0 sec	-
-21	251	-		50-5	0 sec	-
-21	252	-		@jimmytheguy	0 sec	-
-22	253	-		@jimmytheguy	0 sec	-
-22	254	-		50-5	0 sec	-
-22	255	-		Draft29	0 sec	-
-22	256	-		@Danellmer27	0 sec	-
-22	257	-		LOLMets Support Group	0 sec	-
-22	258	-		@kfredincali	0 sec	-
-22	259	-		Little Donny 2	0 sec	-
-22	260	-		@KenGill	0 sec	-
-22	261	-		@Gamer_Gid	0 sec	-
-22	262	-		@Glinn	0 sec	-
-22	263	-		@Gdmets1986	0 sec	-
-22	264	-		M5 - Racco	0 sec	-
-23	265	-		M5 - Racco	0 sec	-
-23	266	-		@Gdmets1986	0 sec	-
-23	267	-		@Glinn	0 sec	-
-23	268	-		@Gamer_Gid	0 sec	-
-23	269	-		@KenGill	0 sec	-
-23	270	-		Little Donny 2	0 sec	-
-23	271	-		@kfredincali	0 sec	-
-23	272	-		LOLMets Support Group	0 sec	-
-23	273	-		@Danellmer27	0 sec	-
-23	274	-		Draft29	0 sec	-
-23	275	-		50-5	0 sec	-
-23	276	-		@jimmytheguy	0 sec	-
-24	277	-		@jimmytheguy	0 sec	-
-24	278	-		50-5	0 sec	-
-24	279	-		Draft29	0 sec	-
-24	280	-		@Danellmer27	0 sec	-
-24	281	-		LOLMets Support Group	0 sec	-
-24	282	-		@kfredincali	0 sec	-
-24	283	-		Little Donny 2	0 sec	-
-24	284	-		@KenGill	0 sec	-
-24	285	-		@Gamer_Gid	0 sec	-
-24	286	-		@Glinn	0 sec	-
-24	287	-		@Gdmets1986	0 sec	-
-24	288	-		M5 - Racco	0 sec	-
-25	289	-		M5 - Racco	0 sec	-
-25	290	-		@Gdmets1986	0 sec	-
-25	291	-		@Glinn	0 sec	-
-25	292	-		@Gamer_Gid	0 sec	-
-25	293	-		@KenGill	0 sec	-
-25	294	-		Little Donny 2	0 sec	-
-25	295	-		@kfredincali	0 sec	-
-25	296	-		LOLMets Support Group	0 sec	-
-25	297	-		@Danellmer27	0 sec	-
-25	298	-		Draft29	0 sec	-
-25	299	-		50-5	0 sec	-
-25	300	-		@jimmytheguy	0 sec	-
+6	66	Julius Randle	F	@kfredincali	2 hour	-
+6	67	Miles Bridges	F	Little Donny 2	1 hour 20 min 38 sec	-
+6	68	Lauri Markkanen	F	@KenGill	6 sec	-
+6	69	Jalen Green	G	@Gamer_Gid	6 min 29 sec	-
+6	70	Zach LaVine	G	@Glinn	10 min 37 sec	-
+6	71	Ausar Thompson	F	@Gdmets1986	13 min 12 sec	-
+6	72	OG Anunoby	F	M5 - Chicago Full of Bull	4 min 33 sec	-
+7	73	Matas Buzelis	F	M5 - Chicago Full of Bull	1 min 37 sec	-
+7	74	Donovan Clingan	C	@Gdmets1986	3 min 35 sec	-
+7	75	DeMar DeRozan	F	@Glinn	40 min 55 sec	-
+7	76	Mikal Bridges	F	@Gamer_Gid	1 hour 38 min 59 sec	-
+7	77	Brandon Ingram	F	@KenGill	6 sec	-
+7	78	Christian Braun	G	Little Donny 2	4 min 48 sec	-
+7	79	Darius Garland	G	@kfredincali	1 hour 10 min 17 sec	-
+7	80	Tyler Herro	G	LOLMets Support Group	1 hour 59 min 59 sec	-
+7	81	Nic Claxton	FLEX	@Danellmer27	35 min 21 sec	-
+7	82	Isaiah Hartenstein	F	Draft29	9 min 47 sec	-
+7	83	Andrew Wiggins	F	50-5	27 min 27 sec	-
+7	84	Cameron Johnson	F	@jimmytheguy	2 hour 31 min 57 sec	-
+8	85	Anfernee Simons	G	@jimmytheguy	0 sec	-
+8	86	Neemias Queta	C	50-5	41 min 12 sec	-
+8	87	Deandre Ayton	C	Draft29	26 min 13 sec	-
+8	88	Jaden Ivey	G	@Danellmer27	11 min 49 sec	-
+8	89	Jimmy Butler	F	LOLMets Support Group	2 hour	-
+8	90			@kfredincali	0 sec	-
+8	91			Little Donny 2	0 sec	-
+8	92			@KenGill	0 sec	-
+8	93			@Gamer_Gid	0 sec	-
+8	94			@Glinn	0 sec	-
+8	95			@Gdmets1986	0 sec	-
+8	96			M5 - Chicago Full of Bull	0 sec	-
+9	97			M5 - Chicago Full of Bull	0 sec	-
+9	98			@Gdmets1986	0 sec	-
+9	99			@Glinn	0 sec	-
+9	100			@Gamer_Gid	0 sec	-
+9	101			@KenGill	0 sec	-
+9	102			Little Donny 2	0 sec	-
+9	103			@kfredincali	0 sec	-
+9	104			LOLMets Support Group	0 sec	-
+9	105			@Danellmer27	0 sec	-
+9	106			Draft29	0 sec	-
+9	107			50-5	0 sec	-
+9	108			@jimmytheguy	0 sec	-
+10	109			@jimmytheguy	0 sec	-
+10	110			50-5	0 sec	-
+10	111			Draft29	0 sec	-
+10	112			@Danellmer27	0 sec	-
+10	113			LOLMets Support Group	0 sec	-
+10	114			@kfredincali	0 sec	-
+10	115			Little Donny 2	0 sec	-
+10	116			@KenGill	0 sec	-
+10	117			@Gamer_Gid	0 sec	-
+10	118			@Glinn	0 sec	-
+10	119			@Gdmets1986	0 sec	-
+10	120			M5 - Chicago Full of Bull	0 sec	-
+11	121			M5 - Chicago Full of Bull	0 sec	-
+11	122			@Gdmets1986	0 sec	-
+11	123			@Glinn	0 sec	-
+11	124			@Gamer_Gid	0 sec	-
+11	125			@KenGill	0 sec	-
+11	126			Little Donny 2	0 sec	-
+11	127			@kfredincali	0 sec	-
+11	128			LOLMets Support Group	0 sec	-
+11	129			@Danellmer27	0 sec	-
+11	130			Draft29	0 sec	-
+11	131			50-5	0 sec	-
+11	132			@jimmytheguy	0 sec	-
+12	133			@jimmytheguy	0 sec	-
+12	134			50-5	0 sec	-
+12	135			Draft29	0 sec	-
+12	136			@Danellmer27	0 sec	-
+12	137			LOLMets Support Group	0 sec	-
+12	138			@kfredincali	0 sec	-
+12	139			Little Donny 2	0 sec	-
+12	140			@KenGill	0 sec	-
+12	141			@Gamer_Gid	0 sec	-
+12	142			@Glinn	0 sec	-
+12	143			@Gdmets1986	0 sec	-
+12	144			M5 - Chicago Full of Bull	0 sec	-
+13	145			M5 - Chicago Full of Bull	0 sec	-
+13	146			@Gdmets1986	0 sec	-
+13	147			@Glinn	0 sec	-
+13	148			@Gamer_Gid	0 sec	-
+13	149			@KenGill	0 sec	-
+13	150			Little Donny 2	0 sec	-
+13	151			@kfredincali	0 sec	-
+13	152			LOLMets Support Group	0 sec	-
+13	153			@Danellmer27	0 sec	-
+13	154			Draft29	0 sec	-
+13	155			50-5	0 sec	-
+13	156			@jimmytheguy	0 sec	-
+14	157			@jimmytheguy	0 sec	-
+14	158			50-5	0 sec	-
+14	159			Draft29	0 sec	-
+14	160			@Danellmer27	0 sec	-
+14	161			LOLMets Support Group	0 sec	-
+14	162			@kfredincali	0 sec	-
+14	163			Little Donny 2	0 sec	-
+14	164			@KenGill	0 sec	-
+14	165			@Gamer_Gid	0 sec	-
+14	166			@Glinn	0 sec	-
+14	167			@Gdmets1986	0 sec	-
+14	168			M5 - Chicago Full of Bull	0 sec	-
+15	169			M5 - Chicago Full of Bull	0 sec	-
+15	170			@Gdmets1986	0 sec	-
+15	171			@Glinn	0 sec	-
+15	172			@Gamer_Gid	0 sec	-
+15	173			@KenGill	0 sec	-
+15	174			Little Donny 2	0 sec	-
+15	175			@kfredincali	0 sec	-
+15	176			LOLMets Support Group	0 sec	-
+15	177			@Danellmer27	0 sec	-
+15	178			Draft29	0 sec	-
+15	179			50-5	0 sec	-
+15	180			@jimmytheguy	0 sec	-
+16	181			@jimmytheguy	0 sec	-
+16	182			50-5	0 sec	-
+16	183			Draft29	0 sec	-
+16	184			@Danellmer27	0 sec	-
+16	185			LOLMets Support Group	0 sec	-
+16	186			@kfredincali	0 sec	-
+16	187			Little Donny 2	0 sec	-
+16	188			@KenGill	0 sec	-
+16	189			@Gamer_Gid	0 sec	-
+16	190			@Glinn	0 sec	-
+16	191			@Gdmets1986	0 sec	-
+16	192			M5 - Chicago Full of Bull	0 sec	-
+17	193			M5 - Chicago Full of Bull	0 sec	-
+17	194			@Gdmets1986	0 sec	-
+17	195			@Glinn	0 sec	-
+17	196			@Gamer_Gid	0 sec	-
+17	197			@KenGill	0 sec	-
+17	198			Little Donny 2	0 sec	-
+17	199			@kfredincali	0 sec	-
+17	200			LOLMets Support Group	0 sec	-
+17	201			@Danellmer27	0 sec	-
+17	202			Draft29	0 sec	-
+17	203			50-5	0 sec	-
+17	204			@jimmytheguy	0 sec	-
+18	205			@jimmytheguy	0 sec	-
+18	206			50-5	0 sec	-
+18	207			Draft29	0 sec	-
+18	208			@Danellmer27	0 sec	-
+18	209			LOLMets Support Group	0 sec	-
+18	210			@kfredincali	0 sec	-
+18	211			Little Donny 2	0 sec	-
+18	212			@KenGill	0 sec	-
+18	213			@Gamer_Gid	0 sec	-
+18	214			@Glinn	0 sec	-
+18	215			@Gdmets1986	0 sec	-
+18	216			M5 - Chicago Full of Bull	0 sec	-
+19	217			M5 - Chicago Full of Bull	0 sec	-
+19	218			@Gdmets1986	0 sec	-
+19	219			@Glinn	0 sec	-
+19	220			@Gamer_Gid	0 sec	-
+19	221			@KenGill	0 sec	-
+19	222			Little Donny 2	0 sec	-
+19	223			@kfredincali	0 sec	-
+19	224			LOLMets Support Group	0 sec	-
+19	225			@Danellmer27	0 sec	-
+19	226			Draft29	0 sec	-
+19	227			50-5	0 sec	-
+19	228			@jimmytheguy	0 sec	-
+20	229			@jimmytheguy	0 sec	-
+20	230			50-5	0 sec	-
+20	231			Draft29	0 sec	-
+20	232			@Danellmer27	0 sec	-
+20	233			LOLMets Support Group	0 sec	-
+20	234			@kfredincali	0 sec	-
+20	235			Little Donny 2	0 sec	-
+20	236			@KenGill	0 sec	-
+20	237			@Gamer_Gid	0 sec	-
+20	238			@Glinn	0 sec	-
+20	239			@Gdmets1986	0 sec	-
+20	240			M5 - Chicago Full of Bull	0 sec	-
+21	241			M5 - Chicago Full of Bull	0 sec	-
+21	242			@Gdmets1986	0 sec	-
+21	243			@Glinn	0 sec	-
+21	244			@Gamer_Gid	0 sec	-
+21	245			@KenGill	0 sec	-
+21	246			Little Donny 2	0 sec	-
+21	247			@kfredincali	0 sec	-
+21	248			LOLMets Support Group	0 sec	-
+21	249			@Danellmer27	0 sec	-
+21	250			Draft29	0 sec	-
+21	251			50-5	0 sec	-
+21	252			@jimmytheguy	0 sec	-
+22	253			@jimmytheguy	0 sec	-
+22	254			50-5	0 sec	-
+22	255			Draft29	0 sec	-
+22	256			@Danellmer27	0 sec	-
+22	257			LOLMets Support Group	0 sec	-
+22	258			@kfredincali	0 sec	-
+22	259			Little Donny 2	0 sec	-
+22	260			@KenGill	0 sec	-
+22	261			@Gamer_Gid	0 sec	-
+22	262			@Glinn	0 sec	-
+22	263			@Gdmets1986	0 sec	-
+22	264			M5 - Chicago Full of Bull	0 sec	-
+23	265			M5 - Chicago Full of Bull	0 sec	-
+23	266			@Gdmets1986	0 sec	-
+23	267			@Glinn	0 sec	-
+23	268			@Gamer_Gid	0 sec	-
+23	269			@KenGill	0 sec	-
+23	270			Little Donny 2	0 sec	-
+23	271			@kfredincali	0 sec	-
+23	272			LOLMets Support Group	0 sec	-
+23	273			@Danellmer27	0 sec	-
+23	274			Draft29	0 sec	-
+23	275			50-5	0 sec	-
+23	276			@jimmytheguy	0 sec	-
+24	277			@jimmytheguy	0 sec	-
+24	278			50-5	0 sec	-
+24	279			Draft29	0 sec	-
+24	280			@Danellmer27	0 sec	-
+24	281			LOLMets Support Group	0 sec	-
+24	282			@kfredincali	0 sec	-
+24	283			Little Donny 2	0 sec	-
+24	284			@KenGill	0 sec	-
+24	285			@Gamer_Gid	0 sec	-
+24	286			@Glinn	0 sec	-
+24	287			@Gdmets1986	0 sec	-
+24	288			M5 - Chicago Full of Bull	0 sec	-
+25	289			M5 - Chicago Full of Bull	0 sec	-
+25	290			@Gdmets1986	0 sec	-
+25	291			@Glinn	0 sec	-
+25	292			@Gamer_Gid	0 sec	-
+25	293			@KenGill	0 sec	-
+25	294			Little Donny 2	0 sec	-
+25	295			@kfredincali	0 sec	-
+25	296			LOLMets Support Group	0 sec	-
+25	297			@Danellmer27	0 sec	-
+25	298			Draft29	0 sec	-
+25	299			50-5	0 sec	-
+25	300			@jimmytheguy	0 sec	-
