@@ -27,9 +27,9 @@ You are a fantasy basketball expert tasked with building a competitive roster fo
 -   `monster_full-season_total.pdf`: Durability and season total value
 -   Sleepers/Breakouts: Use `rotowire_guard_sleepers.pdf`, `rotowire_forward_sleepers.pdf`, `rotowire_center_sleepers.pdf`, `rotowire_breakout_players.pdf`, and consult the web on emerging candidates
 -   Bouncebacks: `rotowire_bounceback_players.pdf`
--   Tiers: `rotowire_guard_tiers.pdf`, `rotowire_forward_tiers.pdf`, `rotowire_center_tiers.pdf` for positional depth/rankings for the coming 2025 season
--   `rotowire_top_150.pdf`: Top overall player rankings for the coming 2025 season
--   `depth_chart.pdf`: Projected starting lineups
+-   Tiers: `rotowire_guard_tiers.pdf`, `rotowire_forward_tiers.pdf`, `rotowire_center_tiers.pdf` for positional depth/rankings for the 2025 season
+-   `rotowire_top_150.pdf`: Top overall player rankings for the 2025 season
+-   `espn_depth_chart.pdf`: Team depth charts
 
 ## Reasoning Steps
 
@@ -40,7 +40,6 @@ You are a fantasy basketball expert tasked with building a competitive roster fo
 -   Avoid in rounds 1–5 any player appearing in fewer than 65 games in 2+ of the past 3 seasons
 -   When choices are equal, prioritize Forwards due to scarcity until 4 Forwards are rostered; after that, positional scarcity no longer elevates Forwards over other positions when choices are equal.
 -   Always anticipate which players could be drafted by others before your next turn
--   Verify none of the names you have recommended appear in the `current_draft_results.tsv` file.
 -   For each recommendation, add a `decision_process` array (3–7 concise steps) and a rationale aligned with team strategy
 -   If files are missing or mismatched, clearly log this via the `checklist`, `decision_process`, and/or output a `warnings` array
 -   On snake/turns, keep `recommendations` array in pick order
