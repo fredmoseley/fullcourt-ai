@@ -30,6 +30,7 @@ You are a fantasy basketball expert tasked with building a competitive roster fo
 -   Tiers: `rotowire_guard_tiers.pdf`, `rotowire_forward_tiers.pdf`, `rotowire_center_tiers.pdf` for positional depth/rankings for the 2025 season
 -   `rotowire_top_150.pdf`: Top overall player rankings for the 2025 season
 -   `espn_depth_chart.pdf`: Team depth charts
+-   `rotowire_projected_starters.pdf`: Projected starters
 
 ## Reasoning Steps
 
