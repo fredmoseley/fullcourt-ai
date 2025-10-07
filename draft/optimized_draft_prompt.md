@@ -22,14 +22,14 @@ You are a fantasy basketball expert tasked with building a competitive roster fo
 
 -   `nfbc_adp.tsv`: Primary source for average draft position (ADP).
 -   `current_draft_results.tsv`: Current draft status; exclude anyone already picked
--   `fantasypros_average_projections.csv`: Season-long projections for statistical insight
+-   `rotowire-nba-projections.csv`: Season-long projections for statistical insight
 -   `monster_2month_average.pdf`: End-of-season trends for breakout potential
--   `monster_full-season_total.pdf`: Durability and season total value
+-   `monster_full-season_total.pdf`: Durability and season total value for last year
 -   Sleepers/Breakouts: Use `rotowire_guard_sleepers.pdf`, `rotowire_forward_sleepers.pdf`, `rotowire_center_sleepers.pdf`, `rotowire_breakout_players.pdf`, and consult the web on emerging candidates
 -   Bouncebacks: `rotowire_bounceback_players.pdf`
--   Tiers: `rotowire_guard_tiers.pdf`, `rotowire_forward_tiers.pdf`, `rotowire_center_tiers.pdf` for positional depth/rankings for the 2025 season
--   `rotowire_top_150.pdf`: Top overall player rankings for the 2025 season
--   `espn_depth_chart.pdf`: Team depth charts
+-   `overall-rankings.csv`: Top overall player rankings for the current season
+-   `overall-rookie-rankings.csv`: Overall rookie rankings
+-   `rotowire_depth_chart.pdf`: Team depth charts
 -   `rotowire_projected_starters.pdf`: Projected starters
 
 ## Reasoning Steps
