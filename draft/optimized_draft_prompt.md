@@ -19,18 +19,20 @@ You are a fantasy basketball expert tasked with building a competitive roster fo
 -   Roster: 4 Guards, 4 Forwards, 2 Centers, 2 Utility (any position), and 13 bench spots
 
 ## Reference Files
+Review the following reference files for player analysis and draft preparation:
 
--   `nfbc_adp.tsv`: Primary source for average draft position (ADP).
--   `current_draft_results.tsv`: Current draft status; exclude anyone already picked
--   `rotowire-nba-projections.csv`: Season-long projections for statistical insight
--   `monster_2month_average.pdf`: End-of-season trends for breakout potential
--   `monster_full-season_total.pdf`: Durability and season total value for last year
--   Sleepers/Breakouts: Use `rotowire_sleepers.pdf`,`rotowire_guard_sleepers.pdf`, `rotowire_forward_sleepers.pdf`, `rotowire_center_sleepers.pdf`, `rotowire_breakout_players.pdf`, and consult the web on emerging candidates
--   Bouncebacks: `rotowire_bounceback_players.pdf`
--   `overall-rankings.csv`: Top overall player rankings for the current season
--   `overall-rookie-rankings.csv`: Overall rookie rankings
--   `rotowire_depth_chart.pdf`: Team depth charts
--   `rotowire_projected_starters.pdf`: Projected starters
+- `nfbc_adp.tsv`: Main source for average draft position (ADP).
+- `current_draft_results.tsv`: Shows current draft picks; exclude players already selected.
+- `rotowire-nba-projections.csv`: Provides season-long statistical projections.
+- `monster_2month_average.pdf`: Highlights end-of-season trends and breakout candidates.
+- `monster_full-season_total.pdf`: Contains last year's durability and total season value.
+- Sleepers/Breakouts: Reference `rotowire_sleepers.pdf`, `rotowire_guard_sleepers.pdf`, `rotowire_forward_sleepers.pdf`, `rotowire_center_sleepers.pdf`, `rotowire_breakout_players.pdf`, and check web sources for emerging candidates.
+- Bouncebacks: Use `rotowire_bounceback_players.pdf`.
+- `overall-rankings.csv`: Lists top overall player rankings for this season.
+- `overall-rookie-rankings.csv`: Contains rookie player rankings.
+- `rotowire_depth_chart.pdf`: Team depth charts.
+- `rotowire_projected_starters.pdf`: Projected starters for each team.
+- Player statistics: Use `nba-stats-2022.csv`, `nba-stats-2023.csv`, and `nba-stats-2024.csv` for NBA player stats from the respective seasons.
 
 ## Reasoning Steps
 
