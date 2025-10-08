@@ -25,7 +25,7 @@ You are a fantasy basketball expert tasked with building a competitive roster fo
 -   `rotowire-nba-projections.csv`: Season-long projections for statistical insight
 -   `monster_2month_average.pdf`: End-of-season trends for breakout potential
 -   `monster_full-season_total.pdf`: Durability and season total value for last year
--   Sleepers/Breakouts: Use `rotowire_guard_sleepers.pdf`, `rotowire_forward_sleepers.pdf`, `rotowire_center_sleepers.pdf`, `rotowire_breakout_players.pdf`, and consult the web on emerging candidates
+-   Sleepers/Breakouts: Use `rotowire_sleepers.pdf`,`rotowire_guard_sleepers.pdf`, `rotowire_forward_sleepers.pdf`, `rotowire_center_sleepers.pdf`, `rotowire_breakout_players.pdf`, and consult the web on emerging candidates
 -   Bouncebacks: `rotowire_bounceback_players.pdf`
 -   `overall-rankings.csv`: Top overall player rankings for the current season
 -   `overall-rookie-rankings.csv`: Overall rookie rankings
@@ -83,6 +83,5 @@ If names do not match across files, flag a warning and use best judgment for nam
 - Make GPT verify the current_draft_results.tsv was updated before giving advice.
 - Use GPT to clean up my logs with better md formatting.
 - GPT is using ADP in its reasoning to determine player value.  Should it?
-- Find better depth charts
-
+- Utilize the min and max adp in my prompt.
 
