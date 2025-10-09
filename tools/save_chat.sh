@@ -34,6 +34,7 @@ round: ""
 pick: ""
 player: ""
 position: ""
+reccommendations: ""
 date: ""
 model: ""
 ---
@@ -68,7 +69,7 @@ s/model:\s*\"\"/model: \"${MODEL//\//\\/}\"/;" \
   printf "%s\n" "$CONTENT"
   echo '```'
   echo -e "\n## Notes\n"
-  echo -e "\n## Problems\n"
+  echo -e "\n## Issues\n"
 } >> "$FILE"
 
 echo "Saved: $FILE"
