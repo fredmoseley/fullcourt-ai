@@ -34,7 +34,7 @@ round: ""
 pick: ""
 player: ""
 position: ""
-reccommendations: ""
+recommendations: ""
 date: ""
 model: ""
 ---

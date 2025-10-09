@@ -6,7 +6,7 @@ round: "4"
 pick: "42"
 player: "Lebron James"
 position: "F"
-reccommendations:
+recommendations:
 date: "2025-10-03T14:46:33-07:00"
 model: "GPT-5 Auto"
 ---

@@ -6,7 +6,7 @@ round: '17'
 pick: '199'
 player: 'Chris Paul'
 position: 'G'
-reccommendations: ''
+recommendations: 'Chris Paul, Duncan Robinson, Moses Moody'
 date: '2025-10-08T18:44:15-07:00'
 model: 'GPT-5 Thinking'
 ---
