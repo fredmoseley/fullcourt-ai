@@ -6,6 +6,7 @@ round: "8"
 pick: "90"
 player: "Kel'el Ware"
 position: "F"
+recommendations: ""
 date: "2025-10-05T13:09:43-07:00"
 model: "GPT-5 Thinking"
 ---
@@ -687,7 +688,7 @@ Thought for 14s
 ## Notes
 I needed rebounds and blocks.  I was hoping Ayton would make it back to me but Ware has more block upside.
 
-## Problems
+## Issues
 - Who is the highest ranked player in the rotowire 150 still available? Think deeply. Ambiguous question technical Ayton correct since highest raked by ADP
 - According to your depth_chart.pdf, the starting center for the New Orleans Pelicans is Jonas Valančiūnas.
 - Make sure I am always using the Thinking model.  Usually get wrong answers when I do not.

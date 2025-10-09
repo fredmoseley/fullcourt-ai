@@ -6,6 +6,7 @@ round: "9"
 pick: "103"
 player: "Jalen Suggs"
 position: "G"
+recommendations: ""
 date: "2025-10-05T20:56:50-07:00"
 model: "GPT-5 Thinking"
 ---
@@ -428,5 +429,5 @@ ChatGPT can make mistakes. Check important info.
 ## Notes
 I drafted Jalen Suggs to address my needs for steals.  Will focus on stocks as I fill out the rest of my roster.  I need rebounds, blocks and steals.
 
-## Problems
+## Issues
 None the thinking model made a huge difference.

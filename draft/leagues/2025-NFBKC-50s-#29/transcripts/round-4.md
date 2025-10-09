@@ -6,8 +6,9 @@ round: "4"
 pick: "42"
 player: "Lebron James"
 position: "F"
+reccommendations:
 date: "2025-10-03T14:46:33-07:00"
-model: "GPT-5 Thinking"
+model: "GPT-5 Auto"
 ---
 
 # [Transcript]()
@@ -887,7 +888,7 @@ Do you want me to also add their last 2-month averages (from Basketball Monster)
 Lebron was too much of a bargain to pass on at this price.  Though I suspect his AST will be on the decline and REB with Ayton in town.  Strongly considered Jaylen Brown and Deni Avdija.
 
 
-## Problems
+## Issues
 - GPT missed Lebron ADP 23. Extend range to my pick in the current round -2
 - May need to normalize names in the current_draft_results.tsv file.
 - Recommended Embiid and Kawhi when I asked it not to consider F Scarcity. Violated my reasoning prompt.  

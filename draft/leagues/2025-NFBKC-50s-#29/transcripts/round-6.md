@@ -6,12 +6,12 @@ round: '6'
 pick: '66'
 player: 'Julius Randle'
 position: 'F/C'
-gpt pick: 'OG Anunoby F'
+recommendations: ""gpt pick: 'OG Anunoby F'
 date: '2025-10-04T12:29:16-07:00'
-model: 'GPT-5 Thinking'
+model: 'GPT-5 Auto'
 ---
 
-# [Transcript]()
+# [Transcript](https://chatgpt.com/share/68e6ff8f-ee4c-800a-983e-fb0301b1fae7)
 
 ```
 You said:

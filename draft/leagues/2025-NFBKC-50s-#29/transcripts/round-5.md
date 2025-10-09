@@ -6,17 +6,14 @@ round: "5"
 pick: "55"
 player: "Trey Murphy"
 position: "F"
-gpt pick: "Deni Avdija, Miles Bridges, Jarrett Allen"
+recommendations: "Deni Avdija, Miles Bridges, Jarrett Allen"
 date: "2025-10-04T10:10:50-07:00"
-model: "GPT-5 Thinking"
+model: "GPT-5 Auto"
 ---
 
 # [Transcript](https://chatgpt.com/share/68e15477-5114-800a-a9cb-dcc768aab0d0)
 
 ```
-Skip to content
-Chat history
-
 You said:
 Who should I take with my pick in the 5th round?
 ChatGPT said:
@@ -84,8 +81,7 @@ Cross-check RotoWire Top 150: Avdija (#43), Miles Bridges (#59), Anfernee Simons
 
 Add sleeper/breakout upside: Deni Avdija breakout stretch post-ASB; Miles Bridges sleeper forward.
 
-Updated Recommendations:
-{
+Updated recommendations: ""{
 "checklist": [
 "Exclude all players already drafted by checking current_draft_results.tsv, ensuring only undrafted players remain for consideration.",
 "Check nfbc_adp to see ADP range ±6 for round 5 pick slot.",
@@ -209,19 +205,13 @@ If you want to lock in stability and efficiency (especially if your FG% or big-m
 Middle-ground fallback: Miles Bridges (steady 20/7/3 wing, less ceiling than Avdija but higher than Allen).
 
 ⚖️ Question for you: Do you want me to keep separating my top recommendations into “Upside Pick” vs “Floor Pick” going forward, or just give a single ranked list?
-
-
-
-
-No file chosenNo file chosen
-ChatGPT can make mistakes. Check important info.
 ```
 
 ## Notes
 Considered Trey Murphy, Deni Avdija, Miles Bridges.
-Murphy lower on the REB and AST.  But I feel that he’s a safer pick then Deni since Rotowire questioned whether he would start and see the same usage.  I should have ignored it because I could use the rebounding and playmaking.  Regerts.  Murphy probably not recommended because has not played 65+ games 2 of the last three seasons.
+Murphy lower on the REB and AST.  But I feel that he’s a safer pick than Deni since Rotowire questioned whether he would start and see the same usage.  I should have ignored it because I could use the rebounding and playmaking.  Regerts.  Murphy probably not recommended because has not played 65+ games 2 of the last three seasons.
 
-## Problems
+## Issues
 - GPT still recommends players that have been drafted.
 - Checklist should reference the tiered files to compare players at the same position
 - Add depth chart to the context will be useful for later rounds.

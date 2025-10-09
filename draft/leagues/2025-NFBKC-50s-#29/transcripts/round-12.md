@@ -6,11 +6,12 @@ round: "12"
 pick: "138"
 player: "Paul George"
 position: "F"
+recommendations: ""
 date: "2025-10-07T09:37:16-07:00"
 model: "GPT-5 Thinking"
 ---
 
-# [Transcript]()
+# [Transcript](https://chatgpt.com/share/68e705ac-29f0-800a-9ead-58602e438df3)
 
 ```
 You said:
@@ -453,6 +454,6 @@ Thought for 27s
 ## Notes
 GPT had a problem accessing my current_draft_results.tsv and nfbc_adp.tsv files.  I decided to take Paul George this round though I passed last round.  If he can reach ~60 games he should out perform this ADP.
 
-## Refinements
+## Issues
 - Extend the ADP window for leagues with larger benches half way through the draft.
 

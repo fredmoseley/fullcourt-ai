@@ -6,11 +6,12 @@ round: '14'
 pick: '162'
 player: 'Kyle Kuzma'
 position: 'F'
+recommendations: ""
 date: '2025-10-07T17:44:08-07:00'
 model: 'GPT-5 Thinking'
 ---
 
-# [Transcript]()
+# [Transcript](https://chatgpt.com/share/68e5b52b-5374-800a-a98d-c44cf7258f9f)
 
 ```
 You said:
@@ -298,4 +299,4 @@ Thought for 12s
 
 I prety much knew I wanted Kuzma at this point. Rotowire thinks he has some bounce back appeal. Strictly a backup. He can fill in if Jaren Jackson or Paul George misses time.
 
-## Refinements
+## Issues

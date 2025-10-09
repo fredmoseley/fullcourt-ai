@@ -4,8 +4,11 @@ league: 'NFBKC-50s-#29'
 team: 'kfredincal'
 round: '2'
 pick: '19'
+player: 'Josh Giddey'
+position: 'G'
+recommendations: ""
 date: '2025-10-02T22:27:15-07:00'
-model: 'GPT-5 Thinking'
+model: 'GPT-5 Auto'
 ---
 
 # [Transcript](https://chatgpt.com/share/68df63a1-8e90-800a-b851-9584c3857077)
@@ -137,7 +140,7 @@ GPT recommended Jalen Williams, Evan Mobley and Chet Holmgren.
 Williams the safer pick but Giddey has more upside to outperform this pick #. He averaged
 21.2 PT 1.9 3’s 10.7 REB 9.3 AST 1.5 SPG .8 BPG .500 FG (14.5 FGA) .809 (5.8 FTA) the last 19 games of the season after the Zach Levine trade. This may be a reach that I regret.
 
-## Problems
+## Issues
 
 1. ChatGPT recommended a player that was already drafted.
 2. Suggestions pretty bound by ADP.

@@ -4,8 +4,11 @@ league: "NFBKC-50s-#29"
 team: "kfredincal"
 round: "1"
 pick: "6"
+player: 'Anthony Edwards'
+position: 'G'
+recommendations: ""
 date: "2025-10-02T22:18:47-07:00"
-model: "GPT-5 Thinking"
+model: "GPT-5 Auto"
 ---
 
 # [Transcript](https://chatgpt.com/share/68df400d-aac0-800a-97b5-b07fd195e44f)
@@ -92,9 +95,10 @@ Projected Stats Comparison
 I pulled the FantasyPros projections — here’s a table comparing Anthony Edwards, Trae Young, and Karl-Anthony Towns across 8-cat roto stats.
 
 Would you like me to break down which categories each player gives you an edge in so you can see how your team would be shaped by each pick? 
+
 ```
 ## Notes
 I don’t love his FG% but he is a young star on the rise that has not reached his prime yet.  Offers MVP upside.  This was an easy pick
 
-## Problems
+## Issues
 ChatGPT recommended a player that was already drafted.	

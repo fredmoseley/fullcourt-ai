@@ -6,8 +6,9 @@ round: "7"
 pick: "79"
 player: "Darius Garland"
 position: "G"
+recommendations: ""
 date: "2025-10-04T22:57:22-07:00"
-model: "GPT-5 Thinking"
+model: "GPT-5 Auto"
 ---
 
 # [Transcript](https://chatgpt.com/share/68e209d2-cd74-800a-9f8a-539c6b50c1b9)
@@ -811,7 +812,7 @@ Would you like me to generate the JSON summary for this pick (with your checklis
 I choose Garland because though he is scheduled to miss 12-14 games he will out perform this draft position.  I can get a C later.
 
 
-## Problems
+## Issues
 - ADP was wrong.  GPT thought Hartenstein ADP was 92 when it was 78 with a high of 84.
 - GPT could not read my current_draft_results.tsv. 
 

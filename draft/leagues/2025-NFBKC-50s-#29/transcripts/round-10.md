@@ -1,13 +1,14 @@
 ---
-season: "2025"
-league: "NFBKC-50s-#29"
-team: "kfredincal"
-round: "10"
-pick: "114"
-player: "Zach Edey"
-position: "C"
-date: "2025-10-06T12:51:34-07:00"
-model: "GPT-5 Thinking"
+season: '2025'
+league: 'NFBKC-50s-#29'
+team: 'kfredincal'
+round: '10'
+pick: '114'
+player: 'Zach Edey'
+position: 'C'
+recommendations: ""
+date: '2025-10-06T12:51:34-07:00'
+model: 'GPT-5 Thinking'
 ---
 
 # [Transcript](https://chatgpt.com/share/68e41deb-0a08-800a-add5-172057ddf8d5)
@@ -372,7 +373,7 @@ Thought for 1m 18s
 }
 
 You said:
-Where does Santi Aldama rank in this list?  He will play more if Edey or Jaren Jackson is out. 
+Where does Santi Aldama rank in this list?  He will play more if Edey or Jaren Jackson is out.
 ChatGPT said:
 
 Thought for 11s
@@ -424,7 +425,9 @@ Thought for 11s
 ```
 
 ## Notes
-Drafted Zach Edey because I need more boards and blocks.  He may miss the first 2 weeks of the season.  Target Santi Aldama in the 11th round since I own both Edey and Jaren Jackson.   Aldama will play more when Edey or Jaren Jackson are out.  I need to fill in for Garland.  Worst case scenario Lonzo?
 
-## Refinements
-- Utilize the min and max adp in my prompt.
+Drafted Zach Edey because I need more boards and blocks. He may miss the first 2 weeks of the season. Target Santi Aldama in the 11th round since I own both Edey and Jaren Jackson. Aldama will play more when Edey or Jaren Jackson are out. I need to fill in for Garland. Worst case scenario Lonzo?
+
+## Issues
+
+-   Utilize the min and max adp in my prompt.

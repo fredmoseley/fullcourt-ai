@@ -6,6 +6,7 @@ round: "13"
 pick: "151"
 player: "Jabari Smith"
 position: "F"
+recommendations: ""
 date: "2025-10-07T17:34:47-07:00"
 model: "GPT-5 Thinking"
 ---
@@ -306,5 +307,5 @@ Thought for 23s
 ## Notes
 I decided to prioritize a stable replacement for Paul George.  Though his stats are not a match to replace George.
 
-## Refinements
+## Issues
 

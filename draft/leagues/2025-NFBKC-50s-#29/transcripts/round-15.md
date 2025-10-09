@@ -6,6 +6,7 @@ round: "15"
 pick: "175"
 player: "Tyus Jones"
 position: "G"
+recommendations: ""
 date: "2025-10-08T10:52:34-07:00"
 model: "GPT-5 Thinking"
 ---
@@ -477,7 +478,7 @@ Nice snag on Tyus — that shores up assists without hurting your percentages. H
 ```
 
 ## Notes
+Jalen Suggs may not be available for the season opener so I need his back up.
 
-
-## Problems
-
+## Issues
+- Your rotowire-nba-projections.csv looks like it has a BOM plus extra banner/header lines (and maybe embedded commas). We need a clean CSV that starts with one header row.

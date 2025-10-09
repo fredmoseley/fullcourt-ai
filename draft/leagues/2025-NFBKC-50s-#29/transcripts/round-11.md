@@ -6,6 +6,7 @@ round: '11'
 pick: '124'
 player: 'Brandin Podziemski'
 position: 'G'
+recommendations: ""
 date: '2025-10-06T17:47:33-07:00'
 model: 'GPT-5 Thinking'
 ---
@@ -277,4 +278,4 @@ I updated the GPT context to use rotowire paid projections.
 GPT recommend: Paul George, Brandin Podziemski, T.J. McConnell
 I couldn’t stomach the George pick.  Like with Embiid Philly may air on the side of caution with George as their goal is having him healthy for the playoffs. Plus he was bad when he played last year.
 
-## Refinements
+## Issues

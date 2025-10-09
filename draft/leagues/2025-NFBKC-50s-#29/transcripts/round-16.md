@@ -6,11 +6,12 @@ round: "16"
 pick: "186"
 player: "Alex Caruso"
 position: "G"
+recommendations: "Alex Caruso, Chris Paul, Luguentz Dort, Marcus Smart, Yang Hansen"
 date: "2025-10-08T11:44:46-07:00"
 model: "GPT-5 Thinking"
 ---
 
-# [Transcript]()
+# [Transcript](https://chatgpt.com/share/68e6b3bd-2a98-800a-9480-548b55bd8045)
 
 ```
 You said:
@@ -247,7 +248,8 @@ Thought for 49s
 ```
 
 ## Notes
-Focusing on specialists at this point.  Focused on Caruso and Chris Paul. Good conversation with GPT.  It was able to identify players with upside, specialists (steals. ~1.5 steals or ~5 assists or ~1.5 blocks).  GPT believed my team needed Caruso more.
+I would like to focus on specialists this round.  Specifically steals.  ~1.5 steals or ~5 assists or ~1.5 blocks
+on Caruso and Chris Paul. Good conversation with GPT.  It was able to identify both players with upside, specialists .  GPT believed my team needed Caruso more.
 
 
 ## Issues
