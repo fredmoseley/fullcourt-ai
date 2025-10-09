@@ -244,9 +244,7 @@ Thought for 26s
 ```
 
 ## Notes
-
 Assists specialists.
 
 ## Issues
-
 -   This project is still struggling with the tsv. Maybe I should try csv.
