@@ -103,4 +103,11 @@ Example output:
 ## TODO
 - Make GPT verify the current_draft_results.tsv was updated before giving advice.
 - Use GPT to clean up my logs with better md formatting.
+- fix names script remove blank lines
+- Clean up context files.  Only include the data I am using.
+- Increase the ADP window 
+- Add prompt to avoid tanking teams
+- Add check for player injuries to the prompt
+- Update rotowire file names changes in prompt document
+- Add chart of current roster projections
 
