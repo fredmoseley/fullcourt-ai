@@ -8,7 +8,7 @@ player: 'Yang Hansen'
 position: 'C'
 recommendations: ''
 date: '2025-10-09T20:28:05-07:00'
-model: 'None'
+model: 'none'
 ---
 
 # [Transcript]()
