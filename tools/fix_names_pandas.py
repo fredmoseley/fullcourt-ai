@@ -4,9 +4,11 @@ Fix the Player column in a TSV from 'Lastname, Firstname' -> 'Firstname Lastname
 Uses pandas and takes the filename as an argument.
 """
 
-import pandas as pd
 import argparse
 import sys
+from pathlib import Path
+
+import pandas as pd
 
 def main():
     parser = argparse.ArgumentParser(description="Reformat Player names in TSV")
@@ -46,9 +48,16 @@ def main():
     # Apply transformation
     df[args.column] = df[args.column].apply(reformat_name)
 
-    # Write back to same file
-    df.to_csv(args.filename, sep="\t", index=False)
-    print(f"Updated {args.filename}: reformatted {args.column} column.")
+    # Remove rows where the target column is empty or only whitespace
+    non_empty_mask = df[args.column].notna() & df[args.column].astype(str).str.strip().ne("")
+    df = df[non_empty_mask]
+
+    # Determine output path with .csv extension
+    output_path = Path(args.filename).with_suffix(".csv")
+
+    # Write results to CSV
+    df.to_csv(output_path, index=False)
+    print(f"Updated {output_path}: reformatted {args.column} column.")
 
 if __name__ == "__main__":
     main()
