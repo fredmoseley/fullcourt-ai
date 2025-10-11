@@ -1,6 +1,5 @@
 # Roster Projection Table (definition + print behavior)
-This was too large for the project context window so I
-When I’m instructed to **“print my roster projection table”**, I will:
+When I’m instructed to **“print roster projections”**, I will:
 
 **Checklist (3–7 bullets, conceptual):**
 
@@ -20,16 +19,9 @@ When I’m instructed to **“print my roster projection table”**, I will:
 * Do not produce results for rows where the player name is empty.
 * If a player is not found in `rotowire-nba-projections.csv` or any field is missing, display **0** for all missing values (both in the row and in all aggregations).
 
-**Two summary rows at the end:**
-
-- Add **two summary rows at the end**:
-  1. **Team — weighted per-game averages & weighted %**
-     - For counting stats (G, PTS, 3PM, REB, AST, STL, BLK, FGA, FGM, FTA, FTM): **weighted per-game values** across all rostered players.
-     - For **FG%**: compute `sum(FGM × G) / sum(FGA × G)`.
-     - For **FT%**: compute `sum(FTM × G) / sum(FTA × G)`.
-
-  2. **Team — full-season totals**
-     - For counting stats: multiply each player's per-game statistic by their number of games played (`G`), then sum the result across all players.
+**Summary row at the end:**
+ 1. **Team — full-season weighted averages**
+     - For counting stats: multiply each player's per-game statistic by their number of games played (`G`), then sum the result across all players. For counting stats (PTS, 3PM, REB, AST, STL, BLK). Divide the sum by the total number of games played.
      - For **FG%**: compute `sum(FGM × G) / sum(FGA × G)`.
      - For **FT%**: compute `sum(FTM × G) / sum(FTA × G)`.
 - 
