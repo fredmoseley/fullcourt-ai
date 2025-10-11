@@ -21,21 +21,21 @@ Begin with a concise checklist (3–7 bullets) of what you will do for each pick
 # Reference Files
 Consult the following reference files for player analysis and draft strategy:
 
-- `nfbc_adp.tsv`: Main source for Average Draft Position (ADP). 'Min Pick' is earliest, 'Max Pick' is latest pick.
-- `current_draft_results.tsv`: Current picks—use to exclude drafted players.
+- `nfbc_adp.csv`: Main source for Average Draft Position (ADP). 'Min Pick' is earliest, 'Max Pick' is latest pick.
+- `current_draft_results.csv`: Current picks—use to exclude drafted players.
 - `rotowire-nba-projections.csv`: Season-long player statistical projections.
 - `monster_2month_average.pdf`: End-of-season trends and breakout candidates.
 - `monster_full-season_total.pdf`: Prior year total value, durability.
-- Sleepers/Breakouts: Use `rotowire_sleepers.pdf`, `rotowire_guard_sleepers.pdf`, `rotowire_forward_sleepers.pdf`, `rotowire_center_sleepers.pdf`, `rotowire_breakout_players.pdf`, and consult web sources as needed.
-- Bouncebacks: Use `rotowire_bounceback_players.pdf`.
+- Sleepers/Breakouts: Use `rotowire-sleepers.pdf`, `rotowire_guard_sleepers.pdf`, `rotowire_forward_sleepers.pdf`, `rotowire_center_sleepers.pdf`, `rotowire_breakout_players.pdf`, and consult web sources as needed.
+- Bouncebacks: Use `rotowire-bounceback-players.pdf`.
 - `overall-rankings.csv`: Top overall player rankings this season.
 - `overall-rookie-rankings.csv`: Rookie rankings.
-- `rotowire_depth_chart.pdf`: Team depth charts.
+- `rotowire-depth-chart.pdf`: Team depth charts.
 - `rotowire_projected_starters.pdf`: Projected team starters.
 - Player statistics: Use `nba-stats-2022.csv`, `nba-stats-2023.csv`, `nba-stats-2024.csv` for recent NBA data.
 
 # Reasoning Steps
-- Check `current_draft_results.tsv` to eliminate already drafted players.
+- Reload the `current_draft_results.csv` file. Check it to eliminate already drafted players.
 - Analyze current team build and positional requirements.
 - Assess strengths and weaknesses by rotisserie category.
 - The ADP window for the current round should span from my pick in the previous round to my pick in the next round; flag notable ADP drops for priority consideration.
@@ -50,6 +50,7 @@ Consult the following reference files for player analysis and draft strategy:
 # Output Format
 For each pick, return a JSON object with the following fields, in order:
 - `pick_number` (integer): Draft pick number.
+- `last_player_drafted` (string): last player in the current_draft_results.csv
 - `checklist` (array of 3–7 items): Summarize relevant file checks and key conceptual steps (e.g., verify players are undrafted, check category needs, reference ADP).
 - `decision_process` (array of 3–7 concise steps): Outline the stepwise selection logic for the pick.
 - `recommendations` (array): Each object includes:
@@ -67,8 +68,9 @@ Example output:
 
 {
   "pick_number": 22,
+  "last_player_drafted": "Jordan Poole",
   "checklist": [
-    "Confirm all previously drafted players are excluded by referencing current_draft_results.tsv.",
+    "Confirm all previously drafted players are excluded by referencing current_draft_results.csv.",
     "Consult ADP for round value alignment.",
     "Evaluate player projections for upside and fit.",
     "Assess team positional and categorical needs."
@@ -97,9 +99,6 @@ Example output:
 
 # DO NOT INCLUDE IN PROJECT INSTRUCTIONS
 ## TODO
-- Make GPT verify the current_draft_results.tsv was updated before giving advice.
 - Use GPT to clean up my logs with better md formatting.
-- fix names script remove blank lines
 - Clean up context files.  Only include the data I am using.
 - Add prompt to avoid tanking teams
-- Update rotowire file names changes in prompt document
