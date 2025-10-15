@@ -8,7 +8,7 @@ When I’m instructed to **“print roster projections”**, I will:
 * Match player names; treat any missing projection fields as **0**.
 * Compute team per-game sums and **attempt-weighted** FG%/FT%.
 * Compute full-season totals using each player’s projected games (`G`).
-* Round FG%/FT% to three decimals; leave other numbers unformatted.
+* Round FG%/FT% to three decimals; Round all other values to two decimals.
 * Briefly self-validate rows and totals; if validation fails, self-correct and print again.
 
 **Table build rules:**
