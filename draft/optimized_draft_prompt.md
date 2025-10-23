@@ -59,6 +59,7 @@ For each pick, return a JSON object with the following fields, in order:
 - `recommendations` (array): Each object includes:
     - `player_or_category` (string): The recommended player or statistical category.
     - `adp` (integer or null): Average draft position (null if missing/non-numeric with an added warning).
+    - `projection` (object): includes the player projected stats.
     - `rationale` (string): Justification for the player/category choice.
 - If any reference file is missing/unreadable or contains mismatches (e.g., missing ADP, player name mismatches), include a `warnings` array. Each warning should identify the affected file and describe the problem; collect all warnings for the pick in a single array.
 
@@ -68,7 +69,6 @@ Special instructions:
 - Always use the output field order: `pick_number`, `checklist`, `decision_process`, `recommendations`, then conditional `warnings`.
 
 Example output:
-
 {
   "pick_number": 22,
   "last_player_drafted": "Jordan Poole",
@@ -88,6 +88,7 @@ Example output:
     {
       "player_or_category": "Bridges, Mikal",
       "adp": 74,
+      "projection": { "G": 82, "MIN": 35.0, "PTS": 16.7, "3PM": 2.0, "REB": 3.1, "AST": 3.5, "STL": 1.0, "BLK": 0.5, "FG%": 49.4,"FGA":'13.8', "FT%": 80.9, "FTA":1.4 },
       "rationale": "All-category contributor, fits ADP and positional structure."
     }
   ]
@@ -100,7 +101,8 @@ Example output:
 - Assume each unfilled starting spot will be filled by a player projected to play 65 games, unless specific player data indicates a different game total.
 - For any drafted starter with a projected games played below 65, use their actual projection in team goal calculations.
 - If the team's remaining starters cannot mathematically reach any category goal (e.g., due to unrealistic per-game requirements), clearly flag this in the output.
-  
+
+# Remove because of ChatGPT 8K character limit for project instructions.
 # Verbosity
 - Output must be actionable and concise. Rigorously follow the specified format, using exact field names and output order.
 
