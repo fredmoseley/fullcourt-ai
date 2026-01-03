@@ -101,4 +101,4 @@ Would you like me to break down which categories each player gives you an edge i
 I don’t love his FG% but he is a young star on the rise that has not reached his prime yet.  Offers MVP upside.  This was an easy pick
 
 ## Issues
-ChatGPT recommended a player that was already drafted.	
+ChatGPT recommended a player that were already drafted.	
