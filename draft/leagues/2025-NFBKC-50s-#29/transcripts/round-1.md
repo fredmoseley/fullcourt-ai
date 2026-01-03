@@ -6,7 +6,7 @@ round: "1"
 pick: "6"
 player: 'Anthony Edwards'
 position: 'G'
-recommendations: ""
+recommendations: "Anthony Edwards"
 date: "2025-10-02T22:18:47-07:00"
 model: "GPT-5 Auto"
 ---
