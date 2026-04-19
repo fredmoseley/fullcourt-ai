@@ -1,4 +1,4 @@
-Developer: # Role and Objective
+# Role and Objective
 - Enables recalculation of required per-starter averages in each fantasy basketball category for undrafted starters, ensuring team goals are attainable based on current draft progress.
 
 # Plan
